@@ -3,7 +3,7 @@
 <p align="center">
  <i> Repositorio con proyectos y ejercicios realizados durante la 5ta edición de Samsung Desarrolladoras, <br /> desde el <code>29/Sep/2022</code> hasta el <code>19/Feb/2023</code>. </i> <br />
 <b> Content: </b> 
-&nbsp <a href="" target="_blank"> Introduccion al Desarrollo Web </a> &nbsp - 
+&nbsp <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web" target="_blank"> Introduccion al Desarrollo Web </a> &nbsp - 
 &nbsp <a href=""> Desarrollo Front-End</a> &nbsp 
  
 </p>
@@ -37,7 +37,7 @@
 
 >"Introducción al Desarrollo Web" es el nombre del nivel 1 del programa de Samsung Desarrolladoras y Bejob. Durante esta etapa <b><i> aprendemos las bases para el desarrollo web en lenguaje HTML </i></b>. El curso es de modalidad online y consta de 4 módulos tutorizados. Para superarlo, es necesario aprobar un exámen final y alcanzar al menos un 75% de progreso en todo lo aprendido. Consta de un total de 40 horas de estudio.
 <br /><br />
-<a href=""> 🚀 Haz click aquí para ver todos los ejercicios realizados </a>
+<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web"> 🚀 Haz click aquí para ver todos los ejercicios realizados </a>
 
 #### Práctica de HTML
 
