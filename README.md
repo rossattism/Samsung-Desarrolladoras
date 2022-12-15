@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://github.com/RossattiSM/Samsung-Developers/blob/main/README.md"><img src="https://img.shields.io/badge/lang-es-orange" alt="spanish language badge" /></a> <a href="https://github.com/RossattiSM/Samsung-Developers/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue"  alt="english language badge" /> </a>
+<b> Samsung-Desarrolladoras </b>
 <br />
- <b><i> Este repositorio contiene los ejercicios y proyectos que realicé durante la 5ta edición de Samsung Desarrolladoras, <br /> desde el <code>29/Sep/2022</code> hasta el <code>19/Feb/2023</code>. </b></i>
+ <i> Este repositorio contiene los ejercicios y proyectos que realicé durante la 5ta edición de Samsung Desarrolladoras, <br /> desde el <code>29/Sep/2022</code> hasta el <code>19/Feb/2023</code>. </i>
 </p>
 
 ## Samsung Desarrolladoras
