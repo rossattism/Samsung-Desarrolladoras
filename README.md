@@ -7,7 +7,7 @@
 ## Samsung Desarrolladoras
 
 >Samsung Desarrolladoras es un programa creado por Samsung España en colaboración con Bejob.  
->Fue pensado para acortar la brecha de género existente en el área de tecnología.
+>Fue pensado para acortar la brecha de género existente en el país en trabajos dentro del área de tecnología.
 >Ha formado a más de 4.100 mujeres desde su primera edición con un programa para motivar e interesar a las mujeres en las disciplinas STEM.
 
 ## Content
