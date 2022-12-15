@@ -1,7 +1,7 @@
 <p align="center">
-<b> Samsung-Desarrolladoras </b>
+<b> Samsung-Desarrolladoras (⚠️ en proceso) </b>
 <br />
- <i> Este repositorio contiene los ejercicios y proyectos que realicé durante la 5ta edición de Samsung Desarrolladoras, <br /> desde el <code>29/Sep/2022</code> hasta el <code>19/Feb/2023</code>. </i>
+ <i> Repositorio con projectos y ejercicios realizados durante la 5ta edición de Samsung Desarrolladoras, <br /> desde el <code>29/Sep/2022</code> hasta el <code>19/Feb/2023</code>. </i>
 </p>
 
 <hr>
