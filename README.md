@@ -41,16 +41,17 @@
 
 ### Práctica de HTML
 
-<b> Enunciado: </b> empleando exclusivamente HTML, reproduce la página web que se muestra en la figura.  
-Deberás llamar al archivo HTML con el nombre index.html.  
+<b> Enunciado: </b> empleando exclusivamente HTML, reproduce la página web que se muestra en la figura. Deberás llamar al archivo HTML con el nombre index.html.  
 <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML"> Mi solución del ejercicio 👀 </a> 
 <br /><br />
-<img src="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML/enunciado.png" alt="enunciado" width="800px" height="450px" />
+<img src="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML/enunciado.png" alt="enunciado" width="700px" height="350px" />
 
 ### Práctica de CSS
 
+<b> Enunciado: </b> empleando HTML y CSS, reproduce la página web que se muestra en la figura. Deberás llamar al archivo HTML con el nombre index.html, y el archivo CSS deberá llevar el nombre de index.css. Deberás llamar al archivo HTML con el nombre index.html.  
+<a href=""> Mi solución del ejercicio 👀 </a> 
 <br /><br />
-<a href=""> 🚀 Haz click aquí para ver el ejercicio </a>
+<img src="" alt="enunciado" width="700px" height="350px" />
 
 ### Laboratorio
 
