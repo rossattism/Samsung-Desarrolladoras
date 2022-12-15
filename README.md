@@ -55,8 +55,7 @@
 
 ### Laboratorio
 
-<br /><br />
-<a href=""> 🚀 Haz click aquí para ver el proyecto final </a>
+<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Laboratorio"> Mi solución del proyecto final 👀 </a> 
 
 ## Desarrollo Front-End
 >"Desarrollo Front-End" es el nombre del nivel 2 del programa de Samsung Desarrolladoras y Bejob y solo son admitidas el 50% de las inscriptas en el curso anterior. Durante esta etapa <b><i> continuamos aprendiendo HTML5 y las bases de CSS3 </i></b>. El curso es de modalidad online y consta de 10 módulos tutorizados. Para superarlo, es necesario aprobar un exámen y un proyecto final, alcanzando al menos un 75% de progreso en todo lo aprendido. Consta de un total de 140 horas de estudio.
