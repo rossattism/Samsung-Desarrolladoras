@@ -1,25 +1,27 @@
-<a href="https://github.com/RossattiSM/Samsung-Developers/blob/main/README.md"><img src="https://img.shields.io/badge/lang-en-orange" alt="english language badge" /></a> <a href="https://github.com/RossattiSM/Samsung-Developers/blob/main/README.es.md"> <img src="https://img.shields.io/badge/lang-es-blue"  alt="spanish language badge" /> </a>
+<a href="https://github.com/RossattiSM/Samsung-Developers/blob/main/README.md"><img src="https://img.shields.io/badge/lang-es-orange" alt="spanish language badge" /></a> <a href="https://github.com/RossattiSM/Samsung-Developers/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue"  alt="english language badge" /> </a>
 <hr>
 
-# Samsung Developers
+# Samsung Desarrolladoras
 
-Samsung Developers Women's Edition - AKA "Samsung Desarrolladoras" - is a program created by Samsung Spain in collaboration with Bejob. It was thought to shorten the existing gender gap in the technology area.
+Samsung Desarrolladoras es un programa creado por Samsung España en colaboración con Bejob.  
+Fue pensado para acortar la brecha de género existente en el área de tecnología.
 
-The program has already trained more than 4,100 women since its first edition with a program to motivate and interest women in STEM disciplines. This repository contains the projects and exercises I did in its 5th edition, from ```Sep/29/2022``` to ```Feb/19/2023.```. 
+Ha formado a más de 4.100 mujeres desde su primera edición con un programa para motivar e interesar a las mujeres en las disciplinas STEM.
+Este repositorio contiene los ejercicios y proyectos que realicé durante su 5ta edición, , desde el ```29/Sep/2022``` hasta el ```19/Feb/2023.```. 
 
 ## Content
 
 <p align="center">
   <ol>
-    <li> <a href=""> Introduction to Web Development </a> </li>
+    <li> <a href=""> Introducción al Desarrollo Web </a> </li>
     <ul>
-      <li> HTML Practice </li>
-      <li> CSS Practice </li>
-      <li> Laboratory </li>
+      <li> Práctica de HTML </li>
+      <li> Práctica de CSS </li>
+      <li> Laboratorio </li>
     </ul>
-    <li> <a href=""> Front-End Development </a> </li>
+    <li> <a href=""> Desarrollo Front-End </a> </li>
     <ul>
-      <li> HTML Forms Practice </li>
+      <li> Práctica de Formularios HTML </li>
     </ul>
  </ol>
 </p>
