@@ -4,6 +4,8 @@
  <i> Este repositorio contiene los ejercicios y proyectos que realicé durante la 5ta edición de Samsung Desarrolladoras, <br /> desde el <code>29/Sep/2022</code> hasta el <code>19/Feb/2023</code>. </i>
 </p>
 
+<hr>
+
 ## Samsung Desarrolladoras
 
 >Samsung Desarrolladoras es un programa creado por Samsung España en colaboración con Bejob.  
