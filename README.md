@@ -35,7 +35,7 @@
 
 ## Introducción al Desarrollo Web
 
-"Introducción al Desarrollo Web" es el nombre del nivel 1 del programa de Samsung Desarrolladoras y Bejob. Durante esta etapa <b><i> aprendemos las bases para el desarrollo web en lenguaje HTML </i></b>. El curso es de modalidad online y consta de 4 módulos tutorizados. Para superarlo, es necesario aprobar un exámen final y alcanzar al menos un 75% de progreso en todo lo aprendido. Consta de un total de 40 horas de estudio.
+>"Introducción al Desarrollo Web" es el nombre del nivel 1 del programa de Samsung Desarrolladoras y Bejob. Durante esta etapa <b><i> aprendemos las bases para el desarrollo web en lenguaje HTML </i></b>. El curso es de modalidad online y consta de 4 módulos tutorizados. Para superarlo, es necesario aprobar un exámen final y alcanzar al menos un 75% de progreso en todo lo aprendido. Consta de un total de 40 horas de estudio.
 <br /><br />
 <a href=""> 🚀 Haz click aquí para ver todos los ejercicios realizados </a>
 
@@ -58,7 +58,9 @@ imagen se muestra qué texto e imágenes hay que incluir y algunas pautas que te
 <a href=""> 🚀 Haz click aquí para ver el proyecto final </a>
 
 ## Desarrollo Front-End
-"Desarrollo Front-End" es el nombre del nivel 2 del programa de Samsung Desarrolladoras y Bejob y solo son admitidas el 50% de las inscriptas en el curso anterior. Durante esta etapa <b><i> continuamos aprendiendo HTML5 y las bases de CSS3 </i></b>. El curso es de modalidad online y consta de 10 módulos tutorizados. Para superarlo, es necesario aprobar un exámen y un proyecto final, alcanzando al menos un 75% de progreso en todo lo aprendido. Consta de un total de 140 horas de estudio.
+>"Desarrollo Front-End" es el nombre del nivel 2 del programa de Samsung Desarrolladoras y Bejob y solo son admitidas el 50% de las inscriptas en el curso anterior. Durante esta etapa <b><i> continuamos aprendiendo HTML5 y las bases de CSS3 </i></b>. El curso es de modalidad online y consta de 10 módulos tutorizados. Para superarlo, es necesario aprobar un exámen y un proyecto final, alcanzando al menos un 75% de progreso en todo lo aprendido. Consta de un total de 140 horas de estudio.
+
+<a href=""> 🚀 Haz click aquí para ver todos los ejercicios realizados </a>
 
 #### Práctica de formularios en HTML
 
