@@ -3,7 +3,7 @@
 <p align="center">
  <i> Repositorio con proyectos y ejercicios realizados durante la 5ta edición de Samsung Desarrolladoras, <br /> desde el <code>29/Sep/2022</code> hasta el <code>19/Feb/2023</code>. </i> <br />
 <b> Content: </b> 
-&nbsp <a href=""> Introduccion al Desarrollo Web </a> &nbsp - 
+&nbsp <a href="" target="_blank"> Introduccion al Desarrollo Web </a> &nbsp - 
 &nbsp <a href=""> Desarrollo Front-End</a> &nbsp 
  
 </p>
