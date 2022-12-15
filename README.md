@@ -51,7 +51,7 @@
 <b> Enunciado: </b> empleando HTML y CSS, reproduce la página web que se muestra en la figura. Deberás llamar al archivo HTML con el nombre index.html, y el archivo CSS deberá llevar el nombre de index.css. Deberás llamar al archivo HTML con el nombre index.html.  
 <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS"> Mi solución del ejercicio 👀 </a> 
 <br /><br />
-<img src="" alt="enunciado" width="700px" height="350px" />
+<img src="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS/Enunciado.png" alt="enunciado" width="700px" height="350px" />
 
 ### Laboratorio
 
