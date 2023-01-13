@@ -37,7 +37,7 @@
 
 >"Introducción al Desarrollo Web" es el nombre del nivel 1 del programa de Samsung Desarrolladoras y Bejob. Durante esta etapa <b><i> aprendemos las bases para el desarrollo web en lenguaje HTML </i></b>. El curso es de modalidad online y consta de 4 módulos tutorizados. Para superarlo, es necesario aprobar un exámen final y alcanzar al menos un 75% de progreso en todo lo aprendido. Consta de un total de 40 horas de estudio.
 
-| Práctica  | HTML       | CSS           | Laboratorio |
+| -  | HTML       | CSS           | Laboratorio |
 |-----------|------------|---------------|--------------|
 | Enunciado | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML/Enunciado.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS/Enunciado.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Laboratorio/ejemploLaboratorio.jpg"> Aquí </a>   |
 | Solución  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML"> 👀 </a> | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS"> 👀 </a>  |  <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Laboratorio"> 👀 </a>
