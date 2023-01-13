@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/* CSS Document */
+body {background-color: cyan;}
+
+h1 {color : red;}
+
+h2 {color :blue;
+	font-style: italic;
+	text-decoration: underline;}
+
+span.code {font-weight: bold;
+			dont-family: Courier;}
+
+span.mayor {font-size: xx-large;}
+
+span.menor {font-size: xx-small;}
+
+table.tabla1 {margin: 0;						
+				padding: 0;
+				background-color: blue;
+				border: thin none black;
+				width:100%;
+				align: left;}
+
+td {padding: 0;
+	margin: 0;
+	border: thick solid black;
+	color: yellow;}
+
+td.rojo {background-color: red;			
+			color: white;}

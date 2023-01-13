@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Prueba de evaluación</title>
+	</head>
+	<body>
+		<h1>Inicio de la prueba</h1>
+		<p>El texto que aquí se está mostrando es un ejemplo del texto que podríamos solicitar en un examen. No todo el texto que se muestra es código válido. Así, por ejemplo, estoy insertando el texto <code>&lt;body&gt;</code> y la etiqueta<code>&lt;html&gt;</code>.</p>
+		<h2><i><u>Ejemplo de tabla con contenido insertado</u></i></h2>
+		<p>Aquí vamos a insertar una <big>tabla que rellenaremos</big> con datos <small>que nos parecen interesantes</small> para el examen:</p>
+		<table border="1" width="100%" align="left" bgcolor="yellow">
+			<tr>
+				<td bgcolor="red">&nbsp;</td>
+				<td bgcolor="blue">&nbsp;</td>
+			</tr>
+			<tr>
+				<td>
+					<p align="center">
+						<b>Esto es un ejemplo de texto dentro de la tabla</b>	
+					</p>
+				</td>
+				<td>
+					<p align="center">
+						<b>Esto es un ejemplo de texto dentro de la tabla</b>
+					</p>
+				</td>
+			</tr>
+		</table>
+		<br />
+		<br />
+		<h3><s>Ejemplo de listas de todo tipo</s></h3>
+		<p>Aquí vamos a poner texto en formato de listas:</p>
+		<ol>
+			<li>Número de habitantes</li>
+			<li>Estudios alcanzados</li>
+		</ol>
+		<ul>
+			<li>Utilidad de todo esto</li>
+			<li>Otros aspectos a considerar</li>
+		</ul>
+		<p>
+			Lo último que nos queda, es <a href="https://www.google.es">este enlace</a> que apunta al buscador de Google, al igual que la imagen de Google que está a continuación, que también apunta al mismo sitio. <br />		
+			<a href="https://www.google.es">
+				<img border="0" src="logo.png" width="276" height="110" alt="Imagen no encontrada" />
+			</a>
+		</p>
+	</body>
+</html>
