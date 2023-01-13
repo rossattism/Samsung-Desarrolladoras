@@ -27,6 +27,8 @@
     <li> <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras#desarrollo-front-end"> Desarrollo Front-End </a> </li>
     <ul>
       <li> Práctica de HTML </li>
+      <li> Práctica de CSS </li>
+      <li> Práctica de JavaScript </li>
     </ul>
  </ol>
 </p>
