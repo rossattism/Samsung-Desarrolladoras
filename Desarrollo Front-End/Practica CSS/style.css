@@ -1,0 +1,31 @@
+body {
+    color: blue;
+    background-color: yellow; 
+}
+
+td {
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}
+
+.red {
+    background-color: red;
+    color: yellow;
+    font-size: x-large;
+    text-shadow: 1px 1px blue;
+}
+
+.green {
+    background-color: green;
+    color: white;
+    font-size: x-large;
+    text-shadow: 1px 1px yellow;
+}
+
+.blue {
+    background-color: blue;
+    color: yellow;
+    font-size: x-large; 
+    text-shadow: 1px 1px white;
+}    
