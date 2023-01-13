@@ -39,7 +39,7 @@
 
 | -  | HTML       | CSS           | Laboratorio |
 |-----------|------------|---------------|--------------|
-| Enunciado | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML/Enunciado.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS/Enunciado.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Laboratorio/ejemploLaboratorio.jpg"> Aquí </a>   |
+| Enunciado | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML/enunciadoHTML.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS/enunciadoCSS.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Laboratorio/ejemploLaboratorio.jpg"> Aquí </a>   |
 | Solución  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML"> 👀 </a> | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS"> 👀 </a>  |  <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Laboratorio"> 👀 </a>
 
 ## Desarrollo Front-End
