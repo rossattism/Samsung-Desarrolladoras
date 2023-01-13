@@ -22,7 +22,6 @@
     <ul>
       <li> Práctica de HTML </li>
       <li> Práctica de CSS </li>
-      <li> Laboratorio </li>
     </ul>
     <li> <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras#desarrollo-front-end"> Desarrollo Front-End </a> </li>
     <ul>
@@ -39,18 +38,22 @@
 
 >"Introducción al Desarrollo Web" es el nombre del nivel 1 del programa de Samsung Desarrolladoras y Bejob. Durante esta etapa <b><i> aprendemos las bases para el desarrollo web en lenguaje HTML </i></b>. El curso es de modalidad online y consta de 4 módulos tutorizados. Para superarlo, es necesario aprobar un exámen final y alcanzar al menos un 75% de progreso en todo lo aprendido. Consta de un total de 40 horas de estudio.
 
-| -  | HTML       | CSS           | Laboratorio |
-|-----------|------------|---------------|--------------|
-| Enunciado | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML/enunciadoHTML.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS/enunciadoCSS.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Laboratorio/ejemploLaboratorio.jpg"> Aquí </a>   |
+| -  | HTML       | CSS           |
+|-----------|------------|---------------|
+| Enunciado | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML/enunciadoHTML.pdf"> 📖 </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS/enunciadoCSS.pdf"> 📖 </a>   |
 | Solución  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML"> 👀 </a> | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS"> 👀 </a>  |  <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Laboratorio"> 👀 </a>
+
+🚀 Haz <a href=""> click aquí </a> para ir al repositorio de la <b> actividad final </b>.
 
 ## Desarrollo Front-End
 >"Desarrollo Front-End" es el nombre del nivel 2 del programa de Samsung Desarrolladoras y Bejob, solo son admitidas el 50% de las inscriptas. Durante esta etapa <b><i> continuamos aprendiendo HTML5 y las bases de CSS3 </i></b>. El curso es de modalidad online y consta de 10 módulos tutorizados. Para superarlo, es necesario aprobar un exámen y un proyecto final, alcanzando al menos un 75% de progreso en todo lo aprendido. Consta de un total de 140 horas de estudio.
 
-| Práctica  | HTML       | CSS           | JavaScript | Laboratorio |
-|-----------|------------|---------------|------------|-------------|
-| Enunciado | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20HTML/enunciadoHTML.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20CSS/enunciadoCSS.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20JavaScript/enunciadoJavaScript.pdf"> Aquí </a>   |  <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Laboratorio/enunciadoLaboratorio.pdf"> Aquí </a> 
-| Solución  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Desarrollo%20Front-End/Practica%20HTML"> 👀 </a> | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Desarrollo%20Front-End/Practica%20CSS">  👀 </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Desarrollo%20Front-End/Practica%20JavaScript"> 👀 </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Desarrollo%20Front-End/Laboratorio">  👀 </a>  |
+| Práctica  | HTML       | CSS           | JavaScript |
+|-----------|------------|---------------|------------|
+| Enunciado | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20HTML/enunciadoHTML.pdf"> 📖 </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20CSS/enunciadoCSS.pdf"> 📖 </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20JavaScript/enunciadoJavaScript.pdf"> 📖 </a>   |
+| Solución  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Desarrollo%20Front-End/Practica%20HTML"> 👀 </a> | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Desarrollo%20Front-End/Practica%20CSS">  👀 </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Desarrollo%20Front-End/Practica%20JavaScript"> 👀 </a>  |
+
+🚀 Haz <a href=""> click aquí </a> para ir al repositorio de la <b> actividad final </b>.
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
