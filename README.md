@@ -39,16 +39,16 @@
 
 | Práctica  | HTML       | CSS           | Laboratorio |
 |-----------|------------|---------------|--------------|
-| Enunciado | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML/Enunciado.pdf"> Click aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS/Enunciado.pdf"> Click aquí </a>  | <a href=""> Click aquí </a>   |
-| Solución  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML"> Ver 👀 </a> | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS"> Ver 👀 </a>  |
+| Enunciado | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML/Enunciado.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS/Enunciado.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Laboratorio/ejemploLaboratorio.jpg"> Aquí </a>   |
+| Solución  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML"> 👀 </a> | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS"> 👀 </a>  |  <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Laboratorio"> 👀 </a>
 
 ## Desarrollo Front-End
 >"Desarrollo Front-End" es el nombre del nivel 2 del programa de Samsung Desarrolladoras y Bejob y solo son admitidas el 50% de las inscriptas en el curso anterior. Durante esta etapa <b><i> continuamos aprendiendo HTML5 y las bases de CSS3 </i></b>. El curso es de modalidad online y consta de 10 módulos tutorizados. Para superarlo, es necesario aprobar un exámen y un proyecto final, alcanzando al menos un 75% de progreso en todo lo aprendido. Consta de un total de 140 horas de estudio.
 
-| Práctica  | HTML       | CSS           | Laboratorio |
-|-----------|------------|---------------|--------------|
-| Enunciado | <a href=""> Click aquí </a>  | <a href=""> Click aquí </a>  | <a href=""> Click aquí </a>   |
-| Solución  | <a href=""> Ver 👀 </a> | <a href=""> Ver 👀 </a>  | <a href=""> Ver 👀 </a>  |
+| Práctica  | HTML       | CSS           | JavaScript | Laboratorio |
+|-----------|------------|---------------|------------|-------------|
+| Enunciado | <a href=""> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20CSS/enunciadoCSS.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20JavaScript/enunciadoJavaScript.pdf"> Aquí </a>   |  <a href=""> Aquí </a> 
+| Solución  | <a href=""> 👀 </a> | <a href="">  👀 </a>  | <a href=""> 👀 </a>  | <a href="">  👀 </a>  |
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
