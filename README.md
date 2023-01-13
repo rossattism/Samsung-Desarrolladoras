@@ -47,8 +47,8 @@
 
 | Práctica  | HTML       | CSS           | JavaScript | Laboratorio |
 |-----------|------------|---------------|------------|-------------|
-| Enunciado | <a href=""> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20CSS/enunciadoCSS.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20JavaScript/enunciadoJavaScript.pdf"> Aquí </a>   |  <a href=""> Aquí </a> 
-| Solución  | <a href=""> 👀 </a> | <a href="">  👀 </a>  | <a href=""> 👀 </a>  | <a href="">  👀 </a>  |
+| Enunciado | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20HTML/enunciadoHTML.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20CSS/enunciadoCSS.pdf"> Aquí </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Practica%20JavaScript/enunciadoJavaScript.pdf"> Aquí </a>   |  <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Desarrollo%20Front-End/Laboratorio/enunciadoLaboratorio.pdf"> Aquí </a> 
+| Solución  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Desarrollo%20Front-End/Practica%20HTML"> 👀 </a> | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Desarrollo%20Front-End/Practica%20CSS">  👀 </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Desarrollo%20Front-End/Practica%20JavaScript"> 👀 </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Desarrollo%20Front-End/Laboratorio">  👀 </a>  |
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
