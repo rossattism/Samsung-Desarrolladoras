@@ -43,7 +43,7 @@
 | Enunciado | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML/enunciadoHTML.pdf"> 📖 </a>  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/blob/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS/enunciadoCSS.pdf"> 📖 </a>   |
 | Solución  | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20HTML"> 👀 </a> | <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Practica%20CSS"> 👀 </a>  |  <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras/tree/main/Introduccion%20al%20Desarrollo%20Web/Laboratorio"> 👀 </a>
 
-🚀 Haz <a href=""> click aquí </a> para ir al repositorio de la <b> actividad final </b>.
+🚀 Haz <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras.Web"> click aquí </a> para ir al repositorio de la <b> actividad final </b>.
 
 ## Desarrollo Front-End
 >"Desarrollo Front-End" es el nombre del nivel 2 del programa de Samsung Desarrolladoras y Bejob, solo son admitidas el 50% de las inscriptas. Durante esta etapa <b><i> continuamos aprendiendo HTML5 y las bases de CSS3 </i></b>. El curso es de modalidad online y consta de 10 módulos tutorizados. Para superarlo, es necesario aprobar un exámen y un proyecto final, alcanzando al menos un 75% de progreso en todo lo aprendido. Consta de un total de 140 horas de estudio.
