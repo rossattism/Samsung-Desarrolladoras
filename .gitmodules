@@ -1,0 +1,6 @@
+[submodule "Web"]
+	path = Web
+	url = git@github.com:RossattiSM/Samsung-Desarrolladoras.Web.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/RossattiSM/Samsung-Desarrolladoras.Frontend
